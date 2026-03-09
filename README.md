@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vendor Invoice Intelligence System
 **Freight Cost Prediction & Invoice Risk Flagging**
 
@@ -220,6 +219,3 @@ python inference/predict_invoice_flag.py
 <pre>
 streamlit run app.py
 </pre>
-=======
-# inventory-invoice-analytics
->>>>>>> 383a48e393d1fea76202772695005a43eae74a5c
